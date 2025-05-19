@@ -2,14 +2,13 @@
 
 :blush: :smiley: :relaxed: :sleeping: :worried: :frowning:
 :muscle: :pray: :clap:  :raised_hands: :open_hands:  :hand: :facepunch:
-//https://gist.github.com/rxaviers/7360908
 
 
 
-#A8B9CC #00599C #FCC624 #4A154B
+
 // 배지 코드
 <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=#A8B9CC&logo=#A8B9CC&logoColor=white"/>
-
+#A8B9CC #00599C #FCC624 #4A154B
 // 파이썬 배지 코드 예시
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
