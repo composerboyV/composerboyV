@@ -6,8 +6,7 @@
 
 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599CC?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599CC?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
@@ -24,7 +23,6 @@
   ## 👀 About Me
   #### :raising_hand: I am a programmer from South Korea.<br/>
   #### :fire: I aim to become a Full-stack developer.<br/>
-  #### :mortar_board: :books: 42경산에서 소프트웨어 엔지니어링 공부 중!
   #### :computer: Currently studying Software Engineering at 42 Gyeongsan !
   <br/>
   <br/>
