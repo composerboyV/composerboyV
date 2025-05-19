@@ -11,7 +11,7 @@
 #00599C
 #FCC624
 #4A154B
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=공식_명칭&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 // 파이썬 배지 코드 예시
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
