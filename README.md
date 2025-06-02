@@ -22,7 +22,6 @@
   
   ## 👀 About Me
   #### 🙋‍♂ I am a programmer from South Korea.<br/>
-  #### :fire: I aim to become a Full-stack developer.<br/>
   #### :computer: Currently studying Software Engineering at 42 Gyeongsan !
   <br/>
   <br/>
