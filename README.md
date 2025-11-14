@@ -1,12 +1,12 @@
 ---
 
-## 👀 About Me
-🙋‍♂ I am a programmer from South Korea.  
-💻 Currently studying Software Engineering at 42 Gyeongsan!  
-🚀 Working as a Fullstack Developer at **AICU**.
+##  About Me
+ I am a programmer from South Korea.  
+ Currently studying Software Engineering at 42 Gyeongsan!  
+ Working as a Fullstack Developer at **AICU**.
 
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -26,5 +26,5 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 [![composerboyV's GitHub stats](https://github-readme-stats.vercel.app/api?username=composerboyV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
