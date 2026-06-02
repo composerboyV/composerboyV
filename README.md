@@ -1,11 +1,5 @@
 ---
 
-##  About Me
- I am a programmer from South Korea.  
- Currently studying Software Engineering at 42 Gyeongsan!  
- Working as a Fullstack Developer at **AICU**.
-
----
 ##  Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
